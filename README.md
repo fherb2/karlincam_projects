@@ -24,3 +24,19 @@ The project is not yet pushed to Github. But, comes in the next time.
 
 ## [birdnet at karlincam](http://birdnet.karlincam.de/)
 
+Main part is a Raspberry Pi mini computer with the [birdnet-pi Project](https://github.com/mcguirepr89/BirdNET-Pi/). (At first see also at [www.raspberrypi.com](https://www.raspberrypi.com/news/classify-birds-acoustically-with-birdnet-pi).) But we would not be Karlincam if this would be installed as a single server application for only one use case. So we send only the live sound to a relay the send this to our birdnet-pi. Additional it send the content stream to my hosted root server with an icecast audio server. At the end this content is hosted by the [Locus Sonus Project](https://locusonus.org) and [Bird Weather](https://app.birdweather.com/stations/1036).
+
+The project is not yet pushed to Github. But, comes in the next time.
+
+Additional the sound is saved 24/7 into opus files. But the would be the next project:
+
+## Mass analysis of audio files withe the birdnet neural network
+
+This neural network is also used by the [birdnet-pi Project](https://github.com/mcguirepr89/BirdNET-Pi/). But in this case I search for a good solution to analyze mass data. The source can be sound data like saved in our [birdnet at karlincam](http://birdnet.karlincam.de/) project. But I orderd some [AudioMoth](https://www.openacousticdevices.info/audiomoth) devices. These devices doesn't have any recognition system. This would consume too much energy over the the use time: It is developed to digitize and save audio in the field over months. After this time you will have a full SD card. So wen need a good procedure to recognize the content. In my case: bird calls or bird songs.
+
+Since neural networks work not absolutely correct, we use it in order to preprocess the data. Thats also the common use case of neural networks in science field research. But the procedure for these data is not yet written. I think, the repository will be open next year. Not before I have a running configuration.
+
+Best regards,
+Frank
+
+herbrand@gmx.de
