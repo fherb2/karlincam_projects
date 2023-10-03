@@ -28,7 +28,7 @@ The project is not yet pushed to Github. But, comes in the next time.
 
 ## [birdnet at karlincam](http://birdnet.karlincam.de/)
 
-Main part is a Raspberry Pi mini computer with the [birdnet-pi Project](https://github.com/mcguirepr89/BirdNET-Pi/). (At first see also at [www.raspberrypi.com](https://www.raspberrypi.com/news/classify-birds-acoustically-with-birdnet-pi).) But we would not be Karlincam if this would be installed as a single server application for only one use case. So we just send the live sound to a relay, which sends it on to our birdnet-pi. But not only there. Additional it send the content stream to my hosted root server with an icecast audio server. At the end this content is hosted by the [Locus Sonus Project](https://locusonus.org) and [Bird Weather](https://app.birdweather.com/stations/1036).
+Main part is a Raspberry Pi mini computer with the [birdnet-pi Project](https://github.com/mcguirepr89/BirdNET-Pi/). (At first see also at [www.raspberrypi.com](https://www.raspberrypi.com/news/classify-birds-acoustically-with-birdnet-pi).) But we would not be Karlincam if this would be installed as a single server application for only one use case. So we just send the live sound to a relay, which sends it on to our birdnet-pi. But not only there. Additional it save the sound into opus files and it send the content stream to my hosted root server with an icecast audio server. At the end this content is hosted by the [Locus Sonus Project](https://locusonus.org) and [Bird Weather](https://app.birdweather.com/stations/1036).
 
 The project is not yet pushed to Github. But, comes in the next time.
 
