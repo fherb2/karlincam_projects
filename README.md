@@ -12,7 +12,7 @@ This repository combines the individual different projects and configurations th
 
 # Projects
 
-## search.karlincam.cz
+## [search.karlincam.cz](https://search.karlincam.cz)
 
 Not just another search engine. It specializes in hand-selected websites on various topics related to nature in the Central European region. Especially of the German and Czech language area.
 
