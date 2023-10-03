@@ -10,4 +10,10 @@ However, some features are based on specially configured applications and develo
 
 This repository combines the individual different projects and configurations that are managed thematically as individual repositories. I give a brief overview of each here. Some projects are not yet fully implemented. In this case, the associated repository is not yet public. 
 
+# Projects
 
+## search.karlincam.cz
+
+Not just another search engine. It specializes in hand-selected websites on various topics related to nature in the Central European region. Especially of the German and Czech language area.
+
+Details comming soon.
