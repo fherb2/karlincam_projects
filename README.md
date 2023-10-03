@@ -32,7 +32,7 @@ Main part is a Raspberry Pi mini computer with the [birdnet-pi Project](https://
 
 The project is not yet pushed to Github. But, comes in the next time.
 
-Additional, I said it, the sound is saved 24/7 into opus files. But this would be the next project:
+I said it, the sound is saved 24/7 into opus files. But this would be the next project:
 
 ## Mass analysis of audio files withe the birdnet neural network
 
