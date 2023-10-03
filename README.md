@@ -1,4 +1,4 @@
-# Larlincam Projects
+# Karlincam Projects
 
 ## What is [Karlincam](https://www.karlincam.cz)?
 
